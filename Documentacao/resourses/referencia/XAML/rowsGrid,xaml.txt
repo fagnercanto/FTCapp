@@ -1,0 +1,45 @@
+new {    CDUNIDADEGESTORA= "270002",     CDGESTAO= "1",     NUEDITALLICITACAO= "000031",     ANOEDITALLICITACAO= "2018", 
+vNUMERODO="", 
+vNUMERODO2="",
+vNUMERODO3="",
+vNUMERODO4="",
+vCDUNIDADEGESTORA="",
+vCDUNIDADEGESTORA2="",
+vDTNOVASITUACAO="",
+vDTNOVASITUACAO2="",
+vNOVASITUACAO="",
+vNUMERODOREPUBLICADO="",
+vSITUACAOATUAL="" }
+
+vNUMERODO
+vNUMERODO2
+vNUMERODO3
+vNUMERODO4
+vCDUNIDADEGESTORA
+vCDUNIDADEGESTORA2
+vDTNOVASITUACAO
+vDTNOVASITUACAO2
+vNOVASITUACAO
+vNUMERODOREPUBLICADO
+vSITUACAOATUAL
+
+<DataGridTextColumn Binding="{Binding vNUMERODO }" Header=" vNUMERODO "/>
+<DataGridTextColumn Binding="{Binding vNUMERODO2 }" Header=" vNUMERODO2 "/>
+<DataGridTextColumn Binding="{Binding vNUMERODO3 }" Header=" vNUMERODO3 "/>
+<DataGridTextColumn Binding="{Binding vNUMERODO4 }" Header=" vNUMERODO4 "/>
+<DataGridTextColumn Binding="{Binding vCDUNIDADEGESTORA }" Header=" vCDUNIDADEGESTORA "/>
+<DataGridTextColumn Binding="{Binding vCDUNIDADEGESTORA2 }" Header=" vCDUNIDADEGESTORA2 "/>
+<DataGridTextColumn Binding="{Binding vDTNOVASITUACAO }" Header=" vDTNOVASITUACAO "/>
+<DataGridTextColumn Binding="{Binding vDTNOVASITUACAO2 }" Header=" vDTNOVASITUACAO2 "/>
+<DataGridTextColumn Binding="{Binding vNOVASITUACAO }" Header=" vNOVASITUACAO"/>
+<DataGridTextColumn Binding="{Binding vNUMERODOREPUBLICADO }" Header=" vNUMERODOREPUBLICADO"/>
+<DataGridTextColumn Binding="{Binding vSITUACAOATUAL }" Header=" vSITUACAOATUAL"/>
+
+<DataGridTextColumn Binding="{Binding ANOEDITALLICITACAO}" Header="ANOEDITALLICITACAO"/>
+<DataGridTextColumn Binding="{Binding ANOEDITALLICITACAO}" Header="ANOEDITALLICITACAO"/>
+<DataGridTextColumn Binding="{Binding ANOEDITALLICITACAO}" Header="ANOEDITALLICITACAO"/>
+<DataGridTextColumn Binding="{Binding ANOEDITALLICITACAO}" Header="ANOEDITALLICITACAO"/>
+<DataGridTextColumn Binding="{Binding ANOEDITALLICITACAO}" Header="ANOEDITALLICITACAO"/>
+<DataGridTextColumn Binding="{Binding ANOEDITALLICITACAO}" Header="ANOEDITALLICITACAO"/>
+<DataGridTextColumn Binding="{Binding ANOEDITALLICITACAO}" Header="ANOEDITALLICITACAO"/>
+<DataGridTextColumn Binding="{Binding ANOEDITALLICITACAO}" Header="ANOEDITALLICITACAO"/>

@@ -1,0 +1,92 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+
+node [shape=record,fontname = "Arial",labelloc="l", fontsize = 18,fontName="consolas", style=filled,fillcolor=gray40,fontcolor=gray80,color="white"]; 		
+graph[margin=3,fontsize = 23;style="filled";shape="square";fontcolor=gray30;color=lightgrey; ]
+
+subgraph cluster_Pagina {          
+    Paginast[shape=record,label="{
+         <pID> ID
+        |<pNome> Nome 
+        |<pID_Path> ID_Path}"];
+        
+    Paginast:pID_Path->Pathst:ID_Path
+    
+    label = "Pagina"; 	
+    }
+subgraph cluster_Pagina_Pagina {          
+    Pagina_Paginast[label="{
+     <ppID> ID
+    |<ppID_ppai> ID_pagina_pai 
+    |<ppID_pafilha> ID_pagina_filha}"];
+    
+    Pagina_Paginast:ppID_ppai -> Paginast:pID
+    Pagina_Paginast:ppID_pafilha -> Paginast:pID
+    
+    label = "PAGINA_PAGINA"; 	
+    }
+subgraph cluster_Tipo_path {
+    Tipo_pathsr[label="{
+        <ptID> ID
+       |<ptNome> Nome}"];
+    label = "Tipo_path"; 
+    }
+    
+subgraph cluster_Path {
+    Pathst[label="{
+         <p2ID> ID
+        |<p2ID_tipo_path> ID_tipo_path}"];
+    Pathst:p2ID_tipo_pathh -> Tipo_pathsr:ptID
+    label = "Path"; 	
+    }
+    
+subgraph cluster_Script { 
+    Scriptst[label="{
+         <sID> ID
+        |<sID_Path> ID_Path}"];
+        
+        Scriptst:sID->Pathst:p2ID
+        
+    label = "Script"; 	
+    }
+subgraph cluster_Caso_teste { 
+    Caso_testest[label="{
+        <ctID> ID
+        |<ctID_script> ID_script}"];
+     Caso_testest:ctID_script-> Scriptst:sID
+    label = "Caso_teste"; 	
+    }
+    
+subgraph cluster_Caso_teste_suite_teste {
+    Caso_teste_suite_testest[label="{
+     <CTSTID> ID
+    |<CTSTID_IDCT> ID_caso_teste 
+    |<CTSTID_IDST> ID_suite_teste}"];
+    /*Caso_teste_suite_testest:CTSTID_IDCT->Suite_testest:ID_Suite_test*/
+    Caso_teste_suite_testest:CTSTID_IDST->Caso_testest:ctID
+    label = "CASO_TESTE__SUITE_TESTE"; 	
+    }
+subgraph cluster_Suite_teste {
+    Suite_testest[label="{
+         <ID_Suite_teste> ID
+        |<ID_Suite_teste_Caso_teste_suite_teste> ID_Caso_teste_suite_teste}"];
+    label = "Suite_teste"; 	
+    }
+subgraph cluster_Area { 
+    Columns6[label="{<ID_Area> ID|<Nome>Nome}"];
+    label = "Area"; 	
+    }
+subgraph cluster_Projeto { 
+    Columns7[label="{<ID_Projeto> ID|<ID_Path_Url> ID_Path_Url}"];label = "Projeto"; 	
+    }
+subgraph cluster_Projeto_Area { 
+    Columns8[label="{<ID_Projeto_Area> ID|<ID_projeto> ID_projeto |<ID_area> ID_area |<ID_Suite_teste_Aceso> ID_Suite_teste_Aceso}"];
+    label = "Projeto_Area"; 	
+    }
+subgraph cluster_Funcionalidade {
+    Columns9[label="{<ID_Funcionalidade> ID|<ID_Projeto_Area> ID_Projeto_Area |<ID_Suite_teste_Aceso> ID_Suite_teste_Aceso}"];
+    label = "Funcionalidade"; 	
+    }
+}
+

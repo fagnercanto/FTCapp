@@ -1,0 +1,37 @@
+var clientes = new []{
+      new {Nome = "José Maria", Telefone = "3333-3333", Email = "josemaria@email.com"},
+      new {Nome = "Antonio Carlos", Telefone = "4444-4444", Email = "antonio@email.com"},
+      new {Nome = "Pedro Henrique", Telefone = "5555-5555", Email = "pedro@email.com"},
+      new {Nome = "Augusto Cesar", Telefone = "6666-6666", Email = "augusto@email.com"},
+      new {Nome = "Carlos Silva", Telefone = "7777-7777", Email = "carlos@email.com"}
+  };
+
+var elementos = new []{
+ new {    CDUNIDADEGESTORA= "270002",     CDGESTAO= "1",     NUEDITALLICITACAO= "000031",     ANOEDITALLICITACAO= "2018"  },
+ new {    CDUNIDADEGESTORA= "270002",     CDGESTAO= "1",     NUEDITALLICITACAO= "000016",     ANOEDITALLICITACAO= "2018"  },
+ new {    CDUNIDADEGESTORA= "270002",     CDGESTAO= "1",     NUEDITALLICITACAO= "000042",     ANOEDITALLICITACAO= "2018"  },
+ new {    CDUNIDADEGESTORA= "270002",     CDGESTAO= "1",     NUEDITALLICITACAO= "000045",     ANOEDITALLICITACAO= "2018"  },
+new  {    CDUNIDADEGESTORA= "270002",     CDGESTAO= "1",     NUEDITALLICITACAO= "000048",     ANOEDITALLICITACAO= "2018"  },
+new  {    CDUNIDADEGESTORA= "270002",     CDGESTAO= "1",     NUEDITALLICITACAO= "000003",     ANOEDITALLICITACAO= "2018"  },
+new  {    CDUNIDADEGESTORA= "270002",     CDGESTAO= "1",     NUEDITALLICITACAO= "000049",     ANOEDITALLICITACAO= "2018"  },
+new  {    CDUNIDADEGESTORA= "270002",     CDGESTAO= "1",     NUEDITALLICITACAO= "000007",     ANOEDITALLICITACAO= "2018"  },
+new  {    CDUNIDADEGESTORA= "270002",     CDGESTAO= "1",     NUEDITALLICITACAO= "000050",     ANOEDITALLICITACAO= "2018"  },
+new  {    CDUNIDADEGESTORA= "270002",     CDGESTAO= "1",     NUEDITALLICITACAO= "000006",     ANOEDITALLICITACAO= "2018"  }
+};
+
+
+
+- CDUNIDADEGESTORA 
+- CDGESTAO
+- EDITALLICITACAO
+- ANOEDITALLICITACAO
+- SITUACAOATUAL
+- DTSITUACAOATUAL
+- DTPUBLICACAODO
+- DTREPUBLICACAOPUBLICACAODO
+- OBSERVACAO
+- NOVASITUACAO
+- DTNOVASITUACAO
+- NUMERODO
+- NUMERODOREPUBLICADO
+- MSG (Mensagem ERRO)

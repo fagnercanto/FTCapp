@@ -1,0 +1,345 @@
+
+							
+							
+
+
+							
+
+
+   <materialDesign:Card HorizontalAlignment="Right" materialDesign:ShadowAssist.ShadowDepth="Depth3" Padding="1" Background="#FF5F5F5F" VerticalAlignment="Stretch" Margin="2">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock VerticalAlignment="Center" Padding="2,0" Margin="2" FontSize="10" FontFamily="Segoe UI" RenderTransformOrigin="0.5,0.5">
+                                        <TextBlock.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="-0.623"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </TextBlock.RenderTransform>NUMERODO</TextBlock>
+                                    <ComboBox>
+                                        <ComboBoxItem IsSelected="True">SIM</ComboBoxItem>
+                                        <ComboBoxItem>NAO</ComboBoxItem>
+                                    </ComboBox>
+                                    <ComboBox>
+                                        <ComboBoxItem IsSelected="True">IGUAL</ComboBoxItem>
+                                        <ComboBoxItem>CONTEM</ComboBoxItem>
+                                        <ComboBoxItem>CONTIDO</ComboBoxItem>
+                                        <ComboBoxItem>ENTRE</ComboBoxItem>
+                                        <ComboBoxItem>VISIVEL</ComboBoxItem>
+                                        <ComboBoxItem>READONLY</ComboBoxItem>
+                                    </ComboBox>
+                                    <Button BorderBrush="#FFF5F9FF" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" ToolTip="MaterialDesignFloatingActionMiniAccentButton" Height="18" Width="18" Margin="2" Background="#FF448AFF" Foreground="#FFEAFAF1">
+                                        <materialDesign:PackIcon Kind="Plus" Height="15" Width="15" FontWeight="Bold" />
+                                    </Button>
+                                </StackPanel>
+                            </materialDesign:Card>
+
+<materialDesign:Card HorizontalAlignment="Right" materialDesign:ShadowAssist.ShadowDepth="Depth3" Padding="1" Background="#FF5F5F5F" VerticalAlignment="Stretch" Margin="2">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock VerticalAlignment="Center" Padding="2,0" Margin="2" FontSize="10" FontFamily="Segoe UI" RenderTransformOrigin="0.5,0.5">
+                                        <TextBlock.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="-0.623"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </TextBlock.RenderTransform>NUMERODO</TextBlock>
+                                    <ComboBox>
+                                        <ComboBoxItem >SIM</ComboBoxItem>
+                                        <ComboBoxItem IsSelected="True">NAO</ComboBoxItem>
+                                    </ComboBox>
+                                    <ComboBox>
+                                        <ComboBoxItem IsSelected="True">IGUAL</ComboBoxItem>
+                                        <ComboBoxItem>CONTEM</ComboBoxItem>
+                                        <ComboBoxItem>CONTIDO</ComboBoxItem>
+                                        <ComboBoxItem>ENTRE</ComboBoxItem>
+                                        <ComboBoxItem>VISIVEL</ComboBoxItem>
+                                        <ComboBoxItem>READONLY</ComboBoxItem>
+                                    </ComboBox>
+                                    <Button BorderBrush="#FFF5F9FF" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" ToolTip="MaterialDesignFloatingActionMiniAccentButton" Height="18" Width="18" Margin="2" Background="#FF448AFF" Foreground="#FFEAFAF1">
+                                        <materialDesign:PackIcon Kind="Plus" Height="15" Width="15" FontWeight="Bold" />
+                                    </Button>
+                                </StackPanel>
+                            </materialDesign:Card>
+
+
+<materialDesign:Card HorizontalAlignment="Right" materialDesign:ShadowAssist.ShadowDepth="Depth3" Padding="1" Background="#FF5F5F5F" VerticalAlignment="Stretch" Margin="2">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock VerticalAlignment="Center" Padding="2,0" Margin="2" FontSize="10" FontFamily="Segoe UI" RenderTransformOrigin="0.5,0.5">
+                                        <TextBlock.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="-0.623"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </TextBlock.RenderTransform>NUMERODO</TextBlock>
+                                    <ComboBox>
+                                        <ComboBoxItem IsSelected="True">SIM</ComboBoxItem>
+                                        <ComboBoxItem>NAO</ComboBoxItem>
+                                    </ComboBox>
+                                    <ComboBox>
+                                        <ComboBoxItem >IGUAL</ComboBoxItem>
+                                        <ComboBoxItem>CONTEM</ComboBoxItem>
+                                        <ComboBoxItem>CONTIDO</ComboBoxItem>
+                                        <ComboBoxItem>ENTRE</ComboBoxItem>
+                                        <ComboBoxItem>VISIVEL</ComboBoxItem>
+                                        <ComboBoxItem>READONLY</ComboBoxItem>
+										<ComboBoxItem IsSelected="True">MAIOR</ComboBoxItem>
+                                    </ComboBox>
+                                    <Button BorderBrush="#FFF5F9FF" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" ToolTip="MaterialDesignFloatingActionMiniAccentButton" Height="18" Width="18" Margin="2" Background="#FF448AFF" Foreground="#FFEAFAF1">
+                                        <materialDesign:PackIcon Kind="Plus" Height="15" Width="15" FontWeight="Bold" />
+                                    </Button>
+                                </StackPanel>
+                            </materialDesign:Card>
+
+
+<materialDesign:Card HorizontalAlignment="Right" materialDesign:ShadowAssist.ShadowDepth="Depth3" Padding="1" Background="#FF5F5F5F" VerticalAlignment="Stretch" Margin="2">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock VerticalAlignment="Center" Padding="2,0" Margin="2" FontSize="10" FontFamily="Segoe UI" RenderTransformOrigin="0.5,0.5">
+                                        <TextBlock.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="-0.623"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </TextBlock.RenderTransform>NUMERODO</TextBlock>
+                                    <ComboBox>
+                                        <ComboBoxItem IsSelected="True">SIM</ComboBoxItem>
+                                        <ComboBoxItem>NAO</ComboBoxItem>
+                                    </ComboBox>
+                                    <ComboBox>
+                                        <ComboBoxItem IsSelected="True">IGUAL</ComboBoxItem>
+                                        <ComboBoxItem>CONTEM</ComboBoxItem>
+                                        <ComboBoxItem>CONTIDO</ComboBoxItem>
+                                        <ComboBoxItem>ENTRE</ComboBoxItem>
+                                        <ComboBoxItem>VISIVEL</ComboBoxItem>
+                                        <ComboBoxItem>READONLY</ComboBoxItem>
+                                    </ComboBox>
+                                    <Button BorderBrush="#FFF5F9FF" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" ToolTip="MaterialDesignFloatingActionMiniAccentButton" Height="18" Width="18" Margin="2" Background="#FF448AFF" Foreground="#FFEAFAF1">
+                                        <materialDesign:PackIcon Kind="Plus" Height="15" Width="15" FontWeight="Bold" />
+                                    </Button>
+                                </StackPanel>
+                            </materialDesign:Card>
+
+
+
+   <materialDesign:Card HorizontalAlignment="Right" materialDesign:ShadowAssist.ShadowDepth="Depth3" Padding="1" Background="#FF5F5F5F" VerticalAlignment="Stretch" Margin="2">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock VerticalAlignment="Center" Padding="2,0" Margin="2" FontSize="10" FontFamily="Segoe UI" RenderTransformOrigin="0.5,0.5">
+                                        <TextBlock.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="-0.623"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </TextBlock.RenderTransform>CDUNIDADEGESTORA</TextBlock>
+                                    <ComboBox>
+                                        <ComboBoxItem IsSelected="True">SIM</ComboBoxItem>
+                                        <ComboBoxItem>NAO</ComboBoxItem>
+                                    </ComboBox>
+                                    <ComboBox>
+                                        <ComboBoxItem >IGUAL</ComboBoxItem>
+                                        <ComboBoxItem>CONTEM</ComboBoxItem>
+                                        <ComboBoxItem>CONTIDO</ComboBoxItem>
+                                        <ComboBoxItem>ENTRE</ComboBoxItem>
+                                        <ComboBoxItem>VISIVEL</ComboBoxItem>
+                                        <ComboBoxItem IsSelected="True" >READONLY</ComboBoxItem>
+                                    </ComboBox>
+                                    <Button BorderBrush="#FFF5F9FF" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" ToolTip="MaterialDesignFloatingActionMiniAccentButton" Height="18" Width="18" Margin="2" Background="#FF448AFF" Foreground="#FFEAFAF1">
+                                        <materialDesign:PackIcon Kind="Plus" Height="15" Width="15" FontWeight="Bold" />
+                                    </Button>
+                                </StackPanel>
+                            </materialDesign:Card>
+
+
+<materialDesign:Card HorizontalAlignment="Right" materialDesign:ShadowAssist.ShadowDepth="Depth3" Padding="1" Background="#FF5F5F5F" VerticalAlignment="Stretch" Margin="2">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock VerticalAlignment="Center" Padding="2,0" Margin="2" FontSize="10" FontFamily="Segoe UI" RenderTransformOrigin="0.5,0.5">
+                                        <TextBlock.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="-0.623"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </TextBlock.RenderTransform>CDUNIDADEGESTORA</TextBlock>
+                                    <ComboBox>
+                                        <ComboBoxItem IsSelected="True">SIM</ComboBoxItem>
+                                        <ComboBoxItem>NAO</ComboBoxItem>
+                                    </ComboBox>
+                                    <ComboBox>
+                                        <ComboBoxItem >IGUAL</ComboBoxItem>
+                                        <ComboBoxItem>CONTEM</ComboBoxItem>
+                                        <ComboBoxItem>CONTIDO</ComboBoxItem>
+                                        <ComboBoxItem>ENTRE</ComboBoxItem>
+                                        <ComboBoxItem IsSelected="True">VISIVEL</ComboBoxItem>
+                                        <ComboBoxItem >READONLY</ComboBoxItem>
+                                    </ComboBox>
+                                    <Button BorderBrush="#FFF5F9FF" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" ToolTip="MaterialDesignFloatingActionMiniAccentButton" Height="18" Width="18" Margin="2" Background="#FF448AFF" Foreground="#FFEAFAF1">
+                                        <materialDesign:PackIcon Kind="Plus" Height="15" Width="15" FontWeight="Bold" />
+                                    </Button>
+                                </StackPanel>
+                            </materialDesign:Card>
+
+
+<materialDesign:Card HorizontalAlignment="Right" materialDesign:ShadowAssist.ShadowDepth="Depth3" Padding="1" Background="#FF5F5F5F" VerticalAlignment="Stretch" Margin="2">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock VerticalAlignment="Center" Padding="2,0" Margin="2" FontSize="10" FontFamily="Segoe UI" RenderTransformOrigin="0.5,0.5">
+                                        <TextBlock.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="-0.623"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </TextBlock.RenderTransform>DTNOVASITUACAO</TextBlock>
+                                    <ComboBox>
+                                        <ComboBoxItem IsSelected="True">SIM</ComboBoxItem>
+                                        <ComboBoxItem>NAO</ComboBoxItem>
+                                    </ComboBox>
+                                    <ComboBox>
+                                        <ComboBoxItem >IGUAL</ComboBoxItem>
+                                        <ComboBoxItem>CONTEM</ComboBoxItem>
+                                        <ComboBoxItem>CONTIDO</ComboBoxItem>
+                                        <ComboBoxItem>ENTRE</ComboBoxItem>
+                                        <ComboBoxItem>VISIVEL</ComboBoxItem>
+                                        <ComboBoxItem>READONLY</ComboBoxItem>
+										<ComboBoxItem IsSelected="True">MAIOR</ComboBoxItem>
+                                    </ComboBox>
+                                    <Button BorderBrush="#FFF5F9FF" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" ToolTip="MaterialDesignFloatingActionMiniAccentButton" Height="18" Width="18" Margin="2" Background="#FF448AFF" Foreground="#FFEAFAF1">
+                                        <materialDesign:PackIcon Kind="Plus" Height="15" Width="15" FontWeight="Bold" />
+                                    </Button>
+                                </StackPanel>
+                            </materialDesign:Card>
+
+
+<materialDesign:Card HorizontalAlignment="Right" materialDesign:ShadowAssist.ShadowDepth="Depth3" Padding="1" Background="#FF5F5F5F" VerticalAlignment="Stretch" Margin="2">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock VerticalAlignment="Center" Padding="2,0" Margin="2" FontSize="10" FontFamily="Segoe UI" RenderTransformOrigin="0.5,0.5">
+                                        <TextBlock.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="-0.623"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </TextBlock.RenderTransform>DTNOVASITUACAO</TextBlock>
+                                    <ComboBox>
+                                        <ComboBoxItem >SIM</ComboBoxItem>
+                                        <ComboBoxItem IsSelected="True">NAO</ComboBoxItem>
+                                    </ComboBox>
+                                    <ComboBox>
+                                        <ComboBoxItem IsSelected="True">IGUAL</ComboBoxItem>
+                                        <ComboBoxItem>CONTEM</ComboBoxItem>
+                                        <ComboBoxItem>CONTIDO</ComboBoxItem>
+                                        <ComboBoxItem>ENTRE</ComboBoxItem>
+                                        <ComboBoxItem>VISIVEL</ComboBoxItem>
+                                        <ComboBoxItem>READONLY</ComboBoxItem>
+										<ComboBoxItem>MAIOR</ComboBoxItem>
+                                    </ComboBox>
+                                    <Button BorderBrush="#FFF5F9FF" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" ToolTip="MaterialDesignFloatingActionMiniAccentButton" Height="18" Width="18" Margin="2" Background="#FF448AFF" Foreground="#FFEAFAF1">
+                                        <materialDesign:PackIcon Kind="Plus" Height="15" Width="15" FontWeight="Bold" />
+                                    </Button>
+                                </StackPanel>
+                            </materialDesign:Card>
+
+
+<materialDesign:Card HorizontalAlignment="Right" materialDesign:ShadowAssist.ShadowDepth="Depth3" Padding="1" Background="#FF5F5F5F" VerticalAlignment="Stretch" Margin="2">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock VerticalAlignment="Center" Padding="2,0" Margin="2" FontSize="10" FontFamily="Segoe UI" RenderTransformOrigin="0.5,0.5">
+                                        <TextBlock.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="-0.623"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </TextBlock.RenderTransform>NOVASITUACAO</TextBlock>
+                                    <ComboBox>
+                                        <ComboBoxItem IsSelected="True">SIM</ComboBoxItem>
+                                        <ComboBoxItem>NAO</ComboBoxItem>
+                                    </ComboBox>
+                                    <ComboBox>
+                                        <ComboBoxItem >IGUAL</ComboBoxItem>
+                                        <ComboBoxItem IsSelected="True">CONTEM</ComboBoxItem>
+                                        <ComboBoxItem>CONTIDO</ComboBoxItem>
+                                        <ComboBoxItem>ENTRE</ComboBoxItem>
+                                        <ComboBoxItem>VISIVEL</ComboBoxItem>
+                                        <ComboBoxItem>READONLY</ComboBoxItem>
+										<ComboBoxItem>MAIOR</ComboBoxItem>
+                                    </ComboBox>
+                                    <Button BorderBrush="#FFF5F9FF" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" ToolTip="MaterialDesignFloatingActionMiniAccentButton" Height="18" Width="18" Margin="2" Background="#FF448AFF" Foreground="#FFEAFAF1">
+                                        <materialDesign:PackIcon Kind="Plus" Height="15" Width="15" FontWeight="Bold" />
+                                    </Button>
+                                </StackPanel>
+                            </materialDesign:Card>
+
+
+<materialDesign:Card HorizontalAlignment="Right" materialDesign:ShadowAssist.ShadowDepth="Depth3" Padding="1" Background="#FF5F5F5F" VerticalAlignment="Stretch" Margin="2">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock VerticalAlignment="Center" Padding="2,0" Margin="2" FontSize="10" FontFamily="Segoe UI" RenderTransformOrigin="0.5,0.5">
+                                        <TextBlock.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="-0.623"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </TextBlock.RenderTransform>NUMERODOREPUBLICADO</TextBlock>
+                                    <ComboBox>
+                                        <ComboBoxItem IsSelected="True">SIM</ComboBoxItem>
+                                        <ComboBoxItem>NAO</ComboBoxItem>
+                                    </ComboBox>
+                                    <ComboBox>
+                                        <ComboBoxItem >IGUAL</ComboBoxItem>
+                                        <ComboBoxItem>CONTEM</ComboBoxItem>
+                                        <ComboBoxItem>CONTIDO</ComboBoxItem>
+                                        <ComboBoxItem IsSelected="True">ENTRE</ComboBoxItem>
+                                        <ComboBoxItem>VISIVEL</ComboBoxItem>
+                                        <ComboBoxItem>READONLY</ComboBoxItem>
+										<ComboBoxItem>MAIOR</ComboBoxItem>
+                                    </ComboBox>
+                                    <Button BorderBrush="#FFF5F9FF" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" ToolTip="MaterialDesignFloatingActionMiniAccentButton" Height="18" Width="18" Margin="2" Background="#FF448AFF" Foreground="#FFEAFAF1">
+                                        <materialDesign:PackIcon Kind="Plus" Height="15" Width="15" FontWeight="Bold" />
+                                    </Button>
+                                </StackPanel>
+                            </materialDesign:Card>
+
+
+<materialDesign:Card HorizontalAlignment="Right" materialDesign:ShadowAssist.ShadowDepth="Depth3" Padding="1" Background="#FF5F5F5F" VerticalAlignment="Stretch" Margin="2">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock VerticalAlignment="Center" Padding="2,0" Margin="2" FontSize="10" FontFamily="Segoe UI" RenderTransformOrigin="0.5,0.5">
+                                        <TextBlock.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="-0.623"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </TextBlock.RenderTransform>SITUACAOATUAL</TextBlock>
+                                    <ComboBox>
+                                        <ComboBoxItem IsSelected="True">SIM</ComboBoxItem>
+                                        <ComboBoxItem>NAO</ComboBoxItem>
+                                    </ComboBox>
+                                    <ComboBox>
+                                        <ComboBoxItem >IGUAL</ComboBoxItem>
+                                        <ComboBoxItem>CONTEM</ComboBoxItem>
+                                        <ComboBoxItem IsSelected="True">CONTIDO</ComboBoxItem>
+                                        <ComboBoxItem >ENTRE</ComboBoxItem>
+                                        <ComboBoxItem>VISIVEL</ComboBoxItem>
+                                        <ComboBoxItem>READONLY</ComboBoxItem>
+										<ComboBoxItem>MAIOR</ComboBoxItem>
+                                    </ComboBox>
+                                    <Button BorderBrush="#FFF5F9FF" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" ToolTip="MaterialDesignFloatingActionMiniAccentButton" Height="18" Width="18" Margin="2" Background="#FF448AFF" Foreground="#FFEAFAF1">
+                                        <materialDesign:PackIcon Kind="Plus" Height="15" Width="15" FontWeight="Bold" />
+                                    </Button>
+                                </StackPanel>
+                            </materialDesign:Card>
+
+
+                            
